@@ -1,0 +1,14 @@
+{
+  "name": "webscrapping",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "scrape": "tsx sofifaScraper.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.21.0"
+  },
+  "dependencies": {
+    "playwright": "^1.59.1"
+  }
+}
